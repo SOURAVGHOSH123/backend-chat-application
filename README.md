@@ -27,7 +27,7 @@ $ mongod --version
 2. Open your terminal and run the following -
 
 ```cmd
-$ git clone https://github.com/backend-chat-application
+$ git clone https://github.com/SOURAVGHOSH123/backend-chat-application
 $ cd backend-chat-application
 $ npm install
 $ node server.js
