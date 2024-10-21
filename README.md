@@ -1,5 +1,5 @@
-# Private-Chat-Application-using-MongoDB-and-Socket.io
-This repository contains a fully functional private chat application using MongoDB, Socket.io and Express that supports real-time chatting and also allows to retrieve chat when logged in later.
+# backend chat aapplication using node js, Mongodb, Express JS and socket.io
+This repository contains a fully functional backend chat application using MongoDB, Socket.io and Express that supports real-time chatting and also allows to retrieve chat when logged in later.
 
 ## Tech-stack -
 - HTML, CSS (for front-end interface)
@@ -27,8 +27,8 @@ $ mongod --version
 2. Open your terminal and run the following -
 
 ```cmd
-$ git clone https://github.com/Sriteja11/Private_Chat_Application_Using_MongoDB_and_Node.js
-$ cd Private-Chat-Application-using-MongoDB-and-Socket.io
+$ git clone https://github.com/backend-chat-application
+$ cd backend-chat-application
 $ npm install
 $ node server.js
 ```
